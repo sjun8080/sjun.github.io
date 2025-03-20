@@ -1,4 +1,4 @@
-# SAMPLE PORT
+# PORTFOLIO SHOWCASE
 
 ##Projects
 ### Project 1
