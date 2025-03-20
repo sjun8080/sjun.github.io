@@ -1,18 +1,18 @@
-#SAMPLE PORT
+# SAMPLE PORT
 
 ##Projects
 ### Project 1
 -Description
 -Links
 
-###Project 2
+### Project 2
 -Description
 -Links
 
-#Education
+# Education
 -Master
 
-#Work History
+# Work History
 -Workplace1
 -Workplace2
 
