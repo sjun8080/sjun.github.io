@@ -2,7 +2,7 @@
 
 ##Projects
 ### Project 1
--Description
+-A simple JavaScript project with Timezone and Weather API 
 -[Github Repository](https://github.com/sjun8080/portfolio-weather.git)
 
 ### Project 2
