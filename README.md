@@ -3,7 +3,7 @@
 ##Projects
 ### Project 1
 -Description
--[Github Repository](https://github.com/sjun8080/portfolio-weather)
+-[Github Repository](https://github.com/sjun8080/portfolio-weather.git)
 
 ### Project 2
 -Description
