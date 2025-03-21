@@ -9,8 +9,10 @@
 
 
 ### Project 2
--Description
--Links
+-Timer with drum sound. The clock is set for MTZ.
+-[Github Reposotory](https://github.com/sjun8080/portfolio-drumtimer.git)
+### Live Demo
+🔗 [See it on CodePen!](https://codepen.io/stevejun80/full/azbWPom)
 
 # Education
 -Master
