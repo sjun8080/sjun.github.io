@@ -20,6 +20,12 @@
 ### Live Demo
 🔗 [See it on CodePen!](https://codepen.io/stevejun80/full/ByadmwR)
 
+### Project 4
+-Fully functional Python Snake Game using pygame module import
+-[https://github.com/sjun8080/portfolio-snake_game]
+### Live Demo
+🔗 [See it on Replit!](https://pygame-playground-sjun8080.replit.app/).
+
 # Education
 -Master
 
