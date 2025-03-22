@@ -22,9 +22,9 @@
 
 ### Project 4
 -Fully functional Python Snake Game using pygame module import
--[Github Reposotory][https://github.com/sjun8080/portfolio-snake_game]
+-[Github Reposotory](https://github.com/sjun8080/portfolio-snake_game)
 ### Live Demo
-🔗 [See it on Replit!](https://pygame-playground-sjun8080.replit.app/).
+🔗 [See it on Replit!](https://pygame-playground-sjun8080.replit.app/)
 
 # Education
 -Master
